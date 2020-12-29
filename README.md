@@ -1,17 +1,18 @@
 ### Hi there 👋
 
-My name is Danilo, I have a degree in computer engineering and recently I started to study the data science field. Despite having less than 1 year of experience, I have been increasing my knowledge both in the theoretical and in the practical part, focusing on real business problems.
+My name is Danilo, I´m a computer engineer and recently I started to study the data science field. I have been increasing my knowledge always balancing theory and practice, focusing on real business problems.
 
-During this last year (2020) I dedicated myself to some courses to acquire the necessary basis to start my journey, these were:
+During this last year (2020) I dedicated myself to some things that I considered vital to acquire the necessary basis to start my journey, these were:
 
 - Professional Certification in Data Science - IBM
 - Data Science Bootcamp - IGTI
 - Machine Learning Bootcamp - IGTI
 
-In the year 2021 I intend to complete the Big Data, Data Science and ML course with Google Cloud Platform and Big Query,
-by the Data Science Academy, and I will start my MBA in Big Data at FIAP with completion scheduled for 03/2022.
+In the year 2021 I intend to complete: 
+- Big Data, Data Science and ML course with Google Cloud Platform and Big Query - Data Science Academy 
+- MBA in Big Data - at FIAP with completion scheduled for 03/2022.
 
-In addition, I am also part of the Meigaron DS Community, where we solve real business case projects every month.
+In addition, I am also part of the Meigaron´s DS Community, a place where we solve real business case projects every month.
 
 
 
