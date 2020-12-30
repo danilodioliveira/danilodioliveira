@@ -1,3 +1,5 @@
+https://www.linkedin.com/in/danilo-de-oliveira-alves-503a47196/
+
 ### Hi there 👋
 
 My name is Danilo, I´m a computer engineer and recently I started to study the data science field. I have been increasing my knowledge always balancing theory and practice, focusing on real business problems.
@@ -15,6 +17,11 @@ In the year 2021 I intend to complete:
 In addition, I am also part of the Meigaron´s DS Community, a place where we solve real business case projects every month.
 
 
+## Projects:
+
+Here you can find my a short list if my projects in Data Science.
+
+- Rossmann Predict Sales: Deploy a machine learning model using Heroku cloud plataform. the model predicts the next 6 weeks of income for all the Rossmann´s stores.
 
 
 <!--
