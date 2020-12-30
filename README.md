@@ -11,7 +11,7 @@ During this last year (2020) I dedicated myself to some things that I considered
 - Machine Learning Bootcamp - IGTI
 
 In the year 2021 I intend to complete: 
-- Big Data, Data Science and ML course with Google Cloud Platform and Big Query - Data Science Academy 
+- Big Data, Data Science and ML with Google Cloud Platform and Big Query - Data Science Academy 
 - MBA in Big Data - at FIAP with completion scheduled for 03/2022.
 
 In addition, I am also part of the Meigaron´s DS Community, a place where we solve real business case projects every month.
