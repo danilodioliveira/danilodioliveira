@@ -1,7 +1,5 @@
 https://www.linkedin.com/in/danilo-de-oliveira-alves-503a47196/
 
-https://www.kaggle.com/danilodioliveira
-
 ### Hi there 👋
 
 My name is Danilo, I´m a computer engineer and recently I started to study the data science field. I have been increasing my knowledge always balancing theory and practice, focusing on real business problems.
